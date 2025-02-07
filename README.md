@@ -231,19 +231,35 @@ Eine umfassende Liste von Mods, die dein Spielerlebnis bereichern:
 ### 3. Server-Dateien entpacken:
 
 3.1 Lade die gepackten Serverdaten herunter.
-3.2 entpacke den Inhalt in einen neuen Ordner auf deinem Computer. Stelle sicher, dass alle Dateien korrekt entpackt sind.
 
-### 2. ForkLauncher herunterladen:
+3.2 Entpacke den Inhalt in einen neuen Ordner auf deinem Computer.
 
-Lade den ForkLauncher von der offiziellen Website herunter. Eine Installation ist nicht erforderlich, da der ForkLauncher direkt ausführbar ist.
+3.3 Stelle sicher, dass alle Dateien korrekt entpackt sind.
 
-### 3. ForkLauncher ausführen:
+3.4 Lösche die gepackten Serverdaten
 
-Doppelklicke auf die ForkLauncher.exe, um den Launcher zu starten.
+### 4. ForkLauncher
 
-### 4. Server-Verzeichnis hinzufügen:
+4.1 Lade den ForkLauncher von der offiziellen Website herunter. Eine Installation ist nicht erforderlich, da der ForkLauncher direkt ausführbar ist.
 
-Im ForkLauncher findest du eine Option zum Hinzufügen eines neuen Server-Verzeichnisses. Klicke auf diese Option und navigiere zu dem Ordner, in den du die Server-Dateien entpackt hast. Wähle diesen Ordner aus und füge ihn als neues Server-Verzeichnis hinzu.
+4.2 Doppelklicke auf ForkLauncher.exe, um den Launcher zu starten.
+
+4.3 Klicke im ForkLauncher auf die Schaltfläche "Import A Server".
+(BILD)
+
+4.4 Klicke auf die Schaltfläche "Fabric".
+(BILD)
+
+4.6 Stelle im Bereich "Choose A Server Version" die Version 1.21 ein.
+(BILD)
+
+4.7 Klick auf die Schaltfäche "Click To select your Server".
+(BILD)
+
+4.8 Navigiere zu dem Ordner, in den du die Server-Dateien entpackt hast.
+(BILD)
+
+4.9 Klick auf das Herunterladen Symbol, um den Server zu installieren.
 
 ### 5. Server-Konfiguration überprüfen (optional):
 
