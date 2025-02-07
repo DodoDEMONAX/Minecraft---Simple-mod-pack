@@ -216,8 +216,11 @@ Eine umfassende Liste von Mods, die dein Spielerlebnis bereichern:
 ### 4. Starten des Modpacks
 
 4.1 Starte den Prism Launcher.
+
 4.2 logge dich mit dein Minecraft Account ein.
+
 4.3 Wähle "Dodo-Pack" im Launcher aus
+
 4.4 Klicke auf die Schaltfläche Play.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
