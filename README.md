@@ -193,13 +193,14 @@ Eine umfassende Liste von Mods, die dein Spielerlebnis bereichern:
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 ### **Installation**
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
-### 1. Herunterladen und Installieren
+
+### 1. Modpack herunterladen und installieren
 
 1.1 Lade das Mod Pack herunter.
 
-1.2 Installiere Prism launcher https://prismlauncher.org/
+1.2 Installiere Prism Launcher. https://prismlauncher.org/
 
-1.3 Öffne folgendes Verzeichnis: "C:\Users\DEIN_USER_NAME\AppData\Roaming\PrismLauncher\instances"
+1.3 Öffne folgendes Verzeichnis: "C:\Users\DEIN_USER_NAME\AppData\Roaming\PrismLauncher\instances".
 
 1.4 Erstelle ein Ordner und gib als Namen „Simple Mod Pack“ ein.
 
@@ -213,21 +214,24 @@ Eine umfassende Liste von Mods, die dein Spielerlebnis bereichern:
 
 ![pic](https://github.com/user-attachments/assets/8727ab6f-9e65-45d4-b8fe-2323b28842b3)
 
-### 2. Starten des Modpacks
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### 2. Modpack starten
 
 2.1 Starte den Prism Launcher.
 
 2.2 logge dich mit dein Minecraft Account ein.
 
-2.3 Wähle "Dodo-Pack" im Launcher aus
+2.3 Wähle "Dodo-Pack" im Launcher aus.
 
 2.4 Klicke auf die Schaltfläche Play.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### 1. Server-Dateien entpacken:
+### 3. Server-Dateien entpacken:
 
- Lade die gepackten Serverdaten herunter und entpacke den Inhalt in einen neuen Ordner auf deinem Computer. Stelle sicher, dass alle Dateien korrekt entpackt sind.
+3.1 Lade die gepackten Serverdaten herunter.
+3.2 entpacke den Inhalt in einen neuen Ordner auf deinem Computer. Stelle sicher, dass alle Dateien korrekt entpackt sind.
 
 ### 2. ForkLauncher herunterladen:
 
