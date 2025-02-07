@@ -211,7 +211,7 @@ Eine umfassende Liste von Mods, die dein Spielerlebnis bereichern:
 
 1.8 So sollte der Inhalt des Ordners dann aussehen.
 
-![image](https://github.com/user-attachments/assets/610196dc-390d-49a8-93fe-814cfc64107f)
+![pic](https://github.com/user-attachments/assets/8727ab6f-9e65-45d4-b8fe-2323b28842b3)
 
 ### 2. Starten des Modpacks
 
