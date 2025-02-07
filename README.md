@@ -198,7 +198,7 @@ Eine umfassende Liste von Mods, die dein Spielerlebnis bereichern:
 **Installiere Prism launcher**
 [](https://prismlauncher.org/)
 
-### Geh in diesem Verzeichniss: "C:\Users\DEIN_USER_NAME\AppData\Roaming\PrismLauncher\instances"
+### Öffne folgendes Verzeichnis: "C:\Users\DEIN_USER_NAME\AppData\Roaming\PrismLauncher\instances"
 
 Erstelle ein Ordner und benenne Ihn, wie das Modpack Heißen soll.
 
