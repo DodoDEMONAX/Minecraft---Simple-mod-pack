@@ -197,31 +197,31 @@ Eine umfassende Liste von Mods, die dein Spielerlebnis bereichern:
 
 1.1 Lade das Mod Pack herunter.
 
-### 2. Installiere Prism launcher https://prismlauncher.org/
+1.2 Installiere Prism launcher https://prismlauncher.org/
 
-### 3. Öffne folgendes Verzeichnis: "C:\Users\DEIN_USER_NAME\AppData\Roaming\PrismLauncher\instances"
+1.3 Öffne folgendes Verzeichnis: "C:\Users\DEIN_USER_NAME\AppData\Roaming\PrismLauncher\instances"
 
-3.1 Erstelle ein Ordner und gib als Namen „Simple Mod Pack“ ein.
+1.4 Erstelle ein Ordner und gib als Namen „Simple Mod Pack“ ein.
 
-3.2 Schiebe die heruntergeladene Datei in den Ordner „Simple Mod Pack“.
+1.5 Schiebe die heruntergeladene Datei in den Ordner „Simple Mod Pack“.
 
-3.3 Entpacke die heruntergeladene Datei mit Winrar oder 7zip.
+1.6 Entpacke die heruntergeladene Datei mit Winrar oder 7zip.
 
-3.4 Lösche die Datei default.minecraft.part.rar.
+1.7 Lösche die Datei default.minecraft.part.rar.
 
-### 3.5 So sollte der Inhalt des Ordners dann aussehen.
+1.8 So sollte der Inhalt des Ordners dann aussehen.
 
 ![image](https://github.com/user-attachments/assets/610196dc-390d-49a8-93fe-814cfc64107f)
 
-### 4. Starten des Modpacks
+### 2. Starten des Modpacks
 
-4.1 Starte den Prism Launcher.
+2.1 Starte den Prism Launcher.
 
-4.2 logge dich mit dein Minecraft Account ein.
+2.2 logge dich mit dein Minecraft Account ein.
 
-4.3 Wähle "Dodo-Pack" im Launcher aus
+2.3 Wähle "Dodo-Pack" im Launcher aus
 
-4.4 Klicke auf die Schaltfläche Play.
+2.4 Klicke auf die Schaltfläche Play.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
