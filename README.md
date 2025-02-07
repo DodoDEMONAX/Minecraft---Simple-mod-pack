@@ -250,6 +250,8 @@ Eine umfassende Liste von Mods, die dein Spielerlebnis bereichern:
 4.4 Klicke auf das Feld "Server Directory".
 (BILD 2)
 
+4.5 Navigiere zur heruntergeladenen Server Datei. 
+
 4.6 Klick auf die Schaltfäche "Apply".
 (BILD 3s)
 
