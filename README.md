@@ -253,22 +253,22 @@ Eine umfassende Liste von Mods, die dein Spielerlebnis bereichern:
 4.5 Navigiere zur heruntergeladenen Server Datei. 
 
 4.6 Klick auf die Schaltfäche "Apply".
-(BILD 3s)
+(BILD 3)
 
 4.7 Klicke im ForkLauncher auf die Schaltfläche "Import A Server".
-(BILD)
+(BILD 4)
 
 4.8 Klicke auf die Schaltfläche "Fabric".
-(BILD)
+(BILD 5)
 
 4.9 Stelle im Bereich "Choose A Server Version" die Version 1.21 ein.
-(BILD)
+(BILD 6)
 
 4.10 Klick auf die Schaltfäche "Click To select your Server".
-(BILD)
+(BILD 7)
 
 4.11 Navigiere zu dem Ordner, in den du die Server-Dateien entpackt hast.
-(BILD)
+(BILD 8)
 
 4.12 Klick auf das Herunterladen Symbol, um den Server zu installieren.
 
