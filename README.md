@@ -209,9 +209,9 @@ Eine umfassende Liste von Mods, die dein Spielerlebnis bereichern:
 
 3.4 Lösche die Datei default.minecraft.part.rar.
 
-![image](https://github.com/user-attachments/assets/610196dc-390d-49a8-93fe-814cfc64107f)
-
 ### 3.5 So sollte der Inhalt des Ordners dann aussehen.
+
+![image](https://github.com/user-attachments/assets/610196dc-390d-49a8-93fe-814cfc64107f)
 
 ### 4. Starten des Modpacks
 
