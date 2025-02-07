@@ -228,7 +228,7 @@ Eine umfassende Liste von Mods, die dein Spielerlebnis bereichern:
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### 3. Server-Dateien entpacken:
+### 3. Server-Dateien entpacken
 
 3.1 Lade die gepackten Serverdaten herunter.
 
@@ -238,7 +238,7 @@ Eine umfassende Liste von Mods, die dein Spielerlebnis bereichern:
 
 3.4 Lösche die gepackten Serverdaten
 
-### 4. ForkLauncher
+### 4. ForkLauncher einrichten
 
 4.1 Lade den ForkLauncher von der offiziellen Website herunter. Eine Installation ist nicht erforderlich, da der ForkLauncher direkt ausführbar ist.
 
@@ -261,13 +261,13 @@ Eine umfassende Liste von Mods, die dein Spielerlebnis bereichern:
 
 4.9 Klick auf das Herunterladen Symbol, um den Server zu installieren.
 
-### 5. Server-Konfiguration überprüfen (optional):
+### 5. Server-Konfiguration überprüfen (optional)
 
 Nachdem du das Verzeichnis hinzugefügt hast, kannst du direkt im ForkLauncher die Server-Konfigurationsdateien überprüfen und anpassen. Dazu gehören Einstellungen in Dateien wie server.properties und eula.txt. Stelle sicher, dass du die eula.txt akzeptierst, indem du den Wert auf true setzt.
 
-### 6. Server starten:
+### 6. Server starten
 
-Nachdem du die Konfiguration überprüft und ggf. angepasst hast, siehst du deinen Server in der Liste im ForkLauncher. Klicke auf den Server und dann auf die Schaltfläche Starten, um den Server zu starten.
+Nachdem du die Konfiguration überprüft und ggf. angepasst hast, siehst du deinen Server in der Liste im ForkLauncher. Klicke auf den Server und auf die Schaltfläche "Starten", um den Server zu starten.
 
 Jetzt sollte dein Minecraft-Server mit den gepackten Serverdaten und dem ForkLauncher bereit zum Starten sein! Viel Spaß beim Spielen und Verwalten deines Servers! 🎮🚀
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
