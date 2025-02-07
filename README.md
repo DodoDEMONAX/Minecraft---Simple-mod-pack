@@ -193,55 +193,60 @@ Eine umfassende Liste von Mods, die dein Spielerlebnis bereichern:
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 ### **Installation**
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
-### Herunterladen: Lade das Mod Pack von der angegebenen Quelle herunter.
+### 1. Herunterladen und Installieren
 
-**Installiere Prism launcher**
-[](https://prismlauncher.org/)
+1.1 Lade das Mod Pack herunter.
 
-### Öffne folgendes Verzeichnis: "C:\Users\DEIN_USER_NAME\AppData\Roaming\PrismLauncher\instances"
+**2. Installiere Prism launcher**
+https://prismlauncher.org/
 
-Erstelle ein Ordner und benenne Ihn, wie das Modpack Heißen soll.
+### 3. Öffne folgendes Verzeichnis: "C:\Users\DEIN_USER_NAME\AppData\Roaming\PrismLauncher\instances"
 
-Schieb die runtergeladenen Daten in diesem Ordner.
+3.1 Erstelle ein Ordner und gib als Namen „Simple Mod Pack“ ein.
 
-Entpacken: Entpacke die heruntergeladenen Dateien in Ordner.
+3.2 Schiebe die heruntergeladene Datei in den Ordner „Simple Mod Pack“.
+
+3.3 Entpacke die heruntergeladene Datei mit Winrar oder 7zip.
+
+3.4 Lösche die Datei default.minecraft.part.rar.
 
 ![image](https://github.com/user-attachments/assets/610196dc-390d-49a8-93fe-814cfc64107f)
 
-### so soll es dann aussehen!
+### So sollte der Inhalt des Ordners dann aussehen.
 
-### Starten: Starte den Prism Launcher und logg dich mit dein Minecraft Account ein.
-
-Wähle das "Name des Mod Packs" im Launcher aus und klicke auf Play.
+### 4. Starten des Modpacks
+4.1 Starte den Prism Launcher.
+4.2 logge dich mit dein Minecraft Account ein.
+4.3 Wähle "Dodo-Pack" im Launcher aus
+4.4 Klicke auf die Schaltfläche Play.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Server-Dateien entpacken:
+### 1. Server-Dateien entpacken:
 
-Lade die gepackten Serverdaten herunter und entpacke den Inhalt in einen neuen Ordner auf deinem Computer. Stelle sicher, dass alle Dateien korrekt entpackt sind.
+ Lade die gepackten Serverdaten herunter und entpacke den Inhalt in einen neuen Ordner auf deinem Computer. Stelle sicher, dass alle Dateien korrekt entpackt sind.
 
-### ForkLauncher herunterladen:
+### 2. ForkLauncher herunterladen:
 
 Lade den ForkLauncher von der offiziellen Website herunter. Eine Installation ist nicht erforderlich, da der ForkLauncher direkt ausführbar ist.
 
-### ForkLauncher ausführen:
+### 3. ForkLauncher ausführen:
 
 Doppelklicke auf die ForkLauncher.exe, um den Launcher zu starten.
 
-### Server-Verzeichnis hinzufügen:
+### 4. Server-Verzeichnis hinzufügen:
 
 Im ForkLauncher findest du eine Option zum Hinzufügen eines neuen Server-Verzeichnisses. Klicke auf diese Option und navigiere zu dem Ordner, in den du die Server-Dateien entpackt hast. Wähle diesen Ordner aus und füge ihn als neues Server-Verzeichnis hinzu.
 
-### Server-Konfiguration überprüfen (optional):
+### 5. Server-Konfiguration überprüfen (optional):
 
 Nachdem du das Verzeichnis hinzugefügt hast, kannst du direkt im ForkLauncher die Server-Konfigurationsdateien überprüfen und anpassen. Dazu gehören Einstellungen in Dateien wie server.properties und eula.txt. Stelle sicher, dass du die eula.txt akzeptierst, indem du den Wert auf true setzt.
 
-### Server starten:
+### 6. Server starten:
 
 Nachdem du die Konfiguration überprüft und ggf. angepasst hast, siehst du deinen Server in der Liste im ForkLauncher. Klicke auf den Server und dann auf die Schaltfläche Starten, um den Server zu starten.
 
 Jetzt sollte dein Minecraft-Server mit den gepackten Serverdaten und dem ForkLauncher bereit zum Starten sein! Viel Spaß beim Spielen und Verwalten deines Servers! 🎮🚀
-
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 **Genießen: Tauche ein in eine neue Minecraft-Erfahrung und genieße die Verbesserungen und neuen Inhalte!**
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
