@@ -197,8 +197,7 @@ Eine umfassende Liste von Mods, die dein Spielerlebnis bereichern:
 
 1.1 Lade das Mod Pack herunter.
 
-**2. Installiere Prism launcher**
-https://prismlauncher.org/
+### 2. Installiere Prism launcher https://prismlauncher.org/
 
 ### 3. Öffne folgendes Verzeichnis: "C:\Users\DEIN_USER_NAME\AppData\Roaming\PrismLauncher\instances"
 
@@ -212,9 +211,10 @@ https://prismlauncher.org/
 
 ![image](https://github.com/user-attachments/assets/610196dc-390d-49a8-93fe-814cfc64107f)
 
-### So sollte der Inhalt des Ordners dann aussehen.
+### 3.5 So sollte der Inhalt des Ordners dann aussehen.
 
 ### 4. Starten des Modpacks
+
 4.1 Starte den Prism Launcher.
 4.2 logge dich mit dein Minecraft Account ein.
 4.3 Wähle "Dodo-Pack" im Launcher aus
