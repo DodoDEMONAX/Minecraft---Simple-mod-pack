@@ -2,7 +2,7 @@
 
  **Beschreibung**
 
-Tauche ein in eine vollkommen neue Minecraft-Erfahrung mit dem Simple Mod Pack!
+Tauche in eine vollkommen neue Minecraft-Erfahrung ein, mit dem Simple Mod Pack!
 Dieses sorgfältig zusammengestellte Mod Pack wurde entwickelt, um dein Spielerlebnis erheblich zu verbessern.
 Es bietet atemberaubende Grafikmods, zahlreiche Ergänzungen zum klassischen Vanilla-Gameplay und leistungsstarke Speicherlösungen, die dir helfen, dein Inventar effizient zu verwalten.
 
@@ -281,6 +281,9 @@ Nachdem du das Verzeichnis hinzugefügt hast, kannst du direkt im ForkLauncher d
 Nachdem du die Konfiguration überprüft und ggf. angepasst hast, siehst du deinen Server in der Liste im ForkLauncher. Klicke auf den Server und auf die Schaltfläche "Starten", um den Server zu starten.
 
 Jetzt sollte dein Minecraft-Server mit den gepackten Serverdaten und dem ForkLauncher bereit zum Starten sein! Viel Spaß beim Spielen und Verwalten deines Servers! 🎮🚀
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
+
 **Genießen: Tauche ein in eine neue Minecraft-Erfahrung und genieße die Verbesserungen und neuen Inhalte!**
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
